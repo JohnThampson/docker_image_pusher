@@ -6,4 +6,13 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 redis:7.4.1
 redis:7.4
-redis:7.2.6
+nginx:1.27.1
+nginx:1.22.1
+nginx:1.25.1-alpine
+busybox:1.28.4
+mysql:5.7.44
+mysql:8
+pause:3.10
+rabbitmq:4.3.0-management
+sonarqube:2026.1.2-developer
+eclipse-temurin:17-jdk
