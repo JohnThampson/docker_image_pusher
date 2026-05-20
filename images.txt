@@ -33,3 +33,4 @@ rockylinux:9-minimal
 tomcat:9-jdk17-corretto-al2
 alpine:3.22
 alpine:3.21
+nacos/nacos-server:latest
